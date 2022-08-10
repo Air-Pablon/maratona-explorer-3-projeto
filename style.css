@@ -4,7 +4,7 @@
     padding: 0;
   }
   body {
-    background-color: #ffedd5;
+    background-color: #6fae6c;
     font-family: 'font serif', sans-serif ;
   }
   ul {
@@ -17,9 +17,7 @@
     color: #2D2C2A
   }
   
-    }
-
-  
+  }
   header {
     padding: 32px 0;
     text-align: center;
@@ -34,11 +32,11 @@
     margin-bottom: 4px;
     font-size: 28px;
     line-height: 33px;
-            } 
+  }
   
   header h1 span {
-    color:#995000;
-}
+    color:#1fddca;
+  }
   header p{
     font-size: 14px;
     line-height: 16px;
@@ -52,7 +50,7 @@
   }
   
   section h2 {
-    background-color: #FED7AA;
+    background-color: #1fddca;
     padding: 8px 16px;
     text-align: center;
   
